@@ -1,0 +1,26 @@
+.search {
+  color: #ff0;
+  background: url(/public/images/test.jpg);
+}.shouye {
+  color: red;
+  height: 1.333333rem;
+  font-size: 0.346667rem;
+}
+
+.shouye .scroll {
+  height: 12rem;
+  background: #ff0;
+}
+
+.shouye .fix-wrap {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background: rgba(0,0,0,.5);
+}
+
+.shouye button {
+  font-size: 0.346667rem;
+}

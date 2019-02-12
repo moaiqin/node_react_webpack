@@ -1,0 +1,14 @@
+{
+  "name": "react-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start-dev": "node ./src/app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
